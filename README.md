@@ -1,2 +1,2 @@
 # DengueCheck
-  Grâce à ce répertoire tu peux en apprendre plus sur le virus de la dengue dans la monde, de son diagnostic et sa physiopathologie, jusqu'à son actualité dans le monde et des découvertes récentes
+  Grâce à ce répertoire tu peux en apprendre plus sur le virus de la dengue, de son diagnostic et sa physiopathologie, jusqu'à son actualité et des découvertes récentes dans le monde.
