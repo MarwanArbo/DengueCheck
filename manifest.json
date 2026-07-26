@@ -1,6 +1,6 @@
 {
-  "name": "DengueWatch",
-  "short_name": "DengueWatch",
+  "name": "DengueCheck",
+  "short_name": "DengueCheck",
   "description": "Veille scientifique dengue & arbovirus",
   "start_url": "./index.html",
   "scope": "./",
